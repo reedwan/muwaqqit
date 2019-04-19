@@ -101,7 +101,7 @@ new Docute({
       title: 'API',
       links: [
         {
-          title: 'API V1',
+          title: 'API v1',
           link: '/api-v1'
         },
       ],

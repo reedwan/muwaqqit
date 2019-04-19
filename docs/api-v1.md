@@ -1,6 +1,6 @@
-# API V1
+# API v1
 
-<note type="warning">API V1 is depreciated.</note>
+<note type="warning">API v1 is depreciated.</note>
 
 The REST API gives developers the ability to use Muwaqqit ṣalāh times and astronomical data in their own applications.
 
