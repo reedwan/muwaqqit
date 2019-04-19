@@ -6,4 +6,4 @@ Moon visibility is at the observer and best time, calculated using [Odeh 2005](h
 
 Fajr/ʿIshāʾ/Karāhah input altitudes are apparent solar altitudes. Temperature/pressure inputs are at the observer. The refraction coefficient is the ratio of light ray curvature to Earth curvature. Night fractions use the current day's Maghrib and the next day's Fajr. Night seasonal hour length uses the current day's Maghrib and the next day's Sunrise.
 
-<note>[Muwaqqit GitHub repository](https://github.com/reedwan/muwaqqit/)</note>
+<note :label="false">[Muwaqqit GitHub repository](https://github.com/reedwan/muwaqqit/)</note>
