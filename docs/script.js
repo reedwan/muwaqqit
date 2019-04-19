@@ -97,6 +97,15 @@ new Docute({
         },
       ]
     },
+    {
+      title: 'API',
+      links: [
+        {
+          title: 'API V1',
+          link: '/api-v1'
+        },
+      ],
+    },
   ],
   layout: 'left',
   plugins: [
