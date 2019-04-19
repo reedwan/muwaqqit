@@ -4,7 +4,7 @@ The Shāfiʿīs, Ḥanbalīs and Mālikīs say that ʿAṣr begins when the shad
 
 The Shāfiʿīs maintain that ʿAṣr ends at sundown. The Ḥanbalīs say that ʿAṣr ends when the shadow of an object becomes twice the length of an object increased by the length of its meridian shadow. The Mālikīs say that ʿAṣr lasts until sunlight reflected off the ground and walls takes on a yellowish hue. Both the Ḥanbalīs and Mālikīs say the extended time of ʿAṣr lasts to sundown. For the Ḥanafī view, see [ʿAṣr al-Mithl al‑Thānī](/asr-al-mithl-al-thani).
 
-The Sun's disc is said to change visibly is when it reaches the height of a spear (rumḥ) above the horizon, or according to some when looking at the Sun's disc no longer causes discomfort to the eyes. See [Karāhah](/karahah).
+The Sun's disc is said to change visibly when it reaches the height of a spear (rumḥ) above the horizon, or according to some when looking at the Sun's disc no longer causes discomfort to the eyes. See [Karāhah](/karahah).
 
 **Method:** The shadow of an object is the length of the object increased by the length of its meridian shadow. The centre of the Sun is in the eastern half of the sky and at an altitude
 
