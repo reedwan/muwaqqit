@@ -85,7 +85,7 @@ new Docute({
         },
         {
           title: 'Iḥtibāk al‑Nujūm',
-          link: '/ihtibak-al‑nujum'
+          link: '/ihtibak-al-nujum'
         },
         {
           title: 'ʿIshāʾ',

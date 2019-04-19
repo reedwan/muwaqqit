@@ -1,6 +1,6 @@
 <img
   src="https://reedwan.github.io/fajr/img/bismillah.png" 
-  width="360"
+  width="400"
 />
 
 <h1>Introduction</h1>
@@ -26,7 +26,7 @@ Muwaqqit calculates:
 - [ʿAṣr al‑Mithl al-Thānī](/asr-al-mithl-al-thani)
 - [Karāhah](/karahah)
 - [Maghrib/Sunset](/sunset)
-- [Iḥtibāk al‑Nujūm](/ihtibak-al‑nujum)
+- [Iḥtibāk al‑Nujūm](/ihtibak-al-nujum)
 - [ʿIshāʾ](/isha)
 - [One-third sharʿī night (Thuluth al‑layl al‑sharʿī)](/night-fractions)
 - [Half sharʿī night (Nisf al‑layl al‑sharʿī)](/night-fractions)
