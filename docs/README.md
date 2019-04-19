@@ -9,26 +9,28 @@ Muwaqqit is project to create a comprehensive reference for ṣalāh times and a
 
 <note>The word Muwaqqit literally means timekeeper and refers to a person who is a specialist in ʿIlm al-Mīqāt. The science of Mīqāt came out of a need to determine the times of prayer and direction of the Qiblah, and resulted in remarkable developments in mathematics, astronomy, trigonometry, algebra, map projection, mathematical geography and engineering, which underpin all of modern science. The Muwaqqit became a formal specialist office in Mosques at the beginning of the seventh century Hijrī.</note>
 
-The project provides a number of public tools including a [web application](https://www.muwaqqit.com), [web-based mobile application](https://www.muwaqqit.com/mobile), [iOS app](https://itunes.apple.com/app/muwaqqit/id1454077724), and [API](https://www.muwaqqit.com/notes). We also provide data services to Islamic organisations, Mosques, media publishers, academic organisations, scholars, astronomers and developers.
+The project provides a number of public tools including a [web application](https://www.muwaqqit.com), [web-based mobile application](https://www.muwaqqit.com/mobile), [iOS app](https://itunes.apple.com/app/muwaqqit/id1454077724), and [API](https://www.muwaqqit.com/notes). We also provide data services to Islamic organisations, Mosques, media publishers, academic organisations, scholars, astronomers and developers. See [contact details](/contact).
+
+<note :label="false">[Technical notes →](/technical-notes)</note>
 
 Muwaqqit calculates:
-- Anti-transit (Nisf qaws al‑layl al‑ḥaqīqī)
-- Fajr
-- Shurūq/Sunrise
-- Ḍuhā/al-Ḍaḥwa al‑Ṣughrā
-- al-Ḍaḥwa al‑Kubrā (Nisf al‑nahār al‑sharʿī)
-- Istiwāʾ
-- Transit (Nisf qaws al‑nahār al‑ḥaqīqī)
-- Ẓuhr
-- ʿAṣr al‑Mithl al-Awwal
-- ʿAṣr al‑Mithl al-Thānī
-- Karāhah
-- Maghrib/Sunset
-- Iḥtibāk al‑Nujūm
-- ʿIshāʾ
-- One-third sharʿī night (Thuluth al‑layl al‑sharʿī)
-- Half sharʿī night (Nisf al‑layl al‑sharʿī)
-- Two-thirds sharʿī night (Thuluthay al‑layl al‑sharʿī)
+- [Anti-transit (Nisf qaws al‑layl al‑ḥaqīqī)](/anti-transit)
+- [Fajr](/fajr)
+- [Shurūq/Sunrise](/sunrise)
+- [Ḍuhā/al-Ḍaḥwa al‑Ṣughrā](/al-dahwa-al-sughra)
+- [al-Ḍaḥwa al‑Kubrā (Nisf al‑nahār al‑sharʿī)](/al-dahwa-al-kubra)
+- [Istiwāʾ](/istiwa)
+- [Transit (Nisf qaws al‑nahār al‑ḥaqīqī)](/transit)
+- [Ẓuhr](/zuhr)
+- [ʿAṣr al‑Mithl al-Awwal](/asr-al-mithl-al-awwal)
+- [ʿAṣr al‑Mithl al-Thānī](/asr-al-mithl-al-thani)
+- [Karāhah](/karahah)
+- [Maghrib/Sunset](/sunset)
+- [Iḥtibāk al‑Nujūm](/ihtibak-al‑nujum)
+- [ʿIshāʾ](/isha)
+- [One-third sharʿī night (Thuluth al‑layl al‑sharʿī)](/night-fractions)
+- [Half sharʿī night (Nisf al‑layl al‑sharʿī)](/night-fractions)
+- [Two-thirds sharʿī night (Thuluthay al‑layl al‑sharʿī)](/night-fractions)
 - True and magnetic Qiblah bearing
 - Qiblah solar time
 - Hijrī date
