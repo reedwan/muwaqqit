@@ -26,7 +26,7 @@ Muwaqqit calculates:
 - [ʿAṣr al‑Mithl al-Thānī](/asr-al-mithl-al-thani)
 - [Karāhah](/karahah)
 - [Maghrib/Sunset](/sunset)
-- [Iḥtibāk al‑Nujūm](/ihtibak-al-nujum)
+- [Ishtibāk al‑Nujūm](/ishtibak-al-nujum)
 - [ʿIshāʾ](/isha)
 - [One-third sharʿī night (Thuluth al‑layl al‑sharʿī)](/night-fractions)
 - [Half sharʿī night (Nisf al‑layl al‑sharʿī)](/night-fractions)

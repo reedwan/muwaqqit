@@ -1,5 +1,5 @@
-# Iḥtibāk al‑Nujūm
-Iḥtibāk al‑Nujūm is when there are so many stars in the sky that they appear to blend into each other. The Ḥanafīs consider it reprehensible to the delay the Maghrib prayer and fast beyond this time. An altitude angle of -10° is documented by [King 2003](https://brill.com/abstract/title/7640).
+# Ishtibāk al‑Nujūm
+Ishtibāk al‑Nujūm is when there are so many stars in the sky that they appear to blend into each other. The Ḥanafīs consider it reprehensible to the delay the Maghrib prayer and fast beyond this time. An altitude angle of -10° is documented by [King 2003](https://brill.com/abstract/title/7640).
 
 <note type="warning">It is not possible to visually determine this angle in regions affected by artificial anthropogenic skyglow (ie. most of the developed world). See [Spitschan et al 2016](http://www.nature.com/articles/srep26756), [Falchi et al 2016](https://advances.sciencemag.org/content/2/6/e1600377.full).</note>
 
