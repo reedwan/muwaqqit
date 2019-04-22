@@ -95,6 +95,10 @@ new Docute({
           title: 'Night fractions',
           link: '/night-fractions'
         },
+        {
+          title: 'Qiblah',
+          link: '/qiblah'
+        },
       ]
     },
     {

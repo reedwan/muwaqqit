@@ -31,8 +31,8 @@ Muwaqqit calculates:
 - [One-third sharʿī night (Thuluth al‑layl al‑sharʿī)](/night-fractions)
 - [Half sharʿī night (Nisf al‑layl al‑sharʿī)](/night-fractions)
 - [Two-thirds sharʿī night (Thuluthay al‑layl al‑sharʿī)](/night-fractions)
-- True and magnetic Qiblah bearing
-- Qiblah solar time
+- [True and magnetic Qiblah bearing](/qiblah)
+- [Qiblah solar time](/qiblah)
 - Hijrī date
 - Moon visibility
 - Moon illumination
