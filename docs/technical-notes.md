@@ -6,6 +6,4 @@ Moon visibility is calculated using [Odeh 2005](http://www.icoproject.org/pdf/20
 
 Fajr/ʿIshāʾ/Karāhah input altitudes are apparent solar altitudes. Temperature/pressure inputs are at the observer. The refraction coefficient is the ratio of light ray curvature to Earth curvature. Night fractions use the current day's Maghrib and the next day's Fajr. Night seasonal hour length uses the current day's Maghrib and the next day's Sunrise.
 
-Muwaqqit is overseen by Mufti Sajid Patel and Shaykh Dr. Haitham al-Haddad.
-
 <note :label="false">[API v1](/api-v1)</note>
