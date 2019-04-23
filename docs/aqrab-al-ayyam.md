@@ -20,8 +20,6 @@ Jurists did not treat _Fajr_ like _ʿIshāʾ_. During persistent twilight, the s
 
 The Imām explains that if _Fajr_ were to be estimated during persistent twilight it would lead to the inconsistency that "_ṣubḥ_ does not start with the (actual) rising of dawn."
 
-<div dir="rtl">وإنما قدروه موجودا لإيجاب فعلها بعد الفجر — رد المحتار على الدر المختار</div>
-
 <div dir="rtl">وأيضا لو فرض أن فجرهم يطلع بقدر ما يغيب الشفق في أقرب البلاد إليهم لزم اتحاد وقتي العشاء والصبح في حقهم ، أو أن الصبح لا يدخل بطلوع الفجر — رد المحتار على الدر المختار</div>
 
 He also explains that _Fajr_ occurs even at extreme latitudes where _Maghrib_ lasts for only a few minutes. He discusses the scenario with regards to "lands where **_dawn occurs_** just as the sun is setting or sometime after it sets such that there is not enough time for a person who is fasting to eat enough food to sustain himself." The Imām says, "We cannot maintain that fasting is not obligatory under these conditions due to the existence of the reason for the fast — witnessing part of the month (of Ramadān) and the **_occurrence of dawn every day_** (‏طلوع فجر كل يوم‎)."
