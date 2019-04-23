@@ -107,7 +107,7 @@ new Docute({
         {
           title: 'Aqrab al-Ayyām',
           link: '/aqrab-al-ayyam',
-          toc?: false,
+          toc: false,
         },
       ],
     },
