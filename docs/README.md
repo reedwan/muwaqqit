@@ -11,6 +11,8 @@ Muwaqqit is a project to create a comprehensive reference for ṣalāh times and
 
 Muwaqqit provides a number of public tools including a [web application](https://www.muwaqqit.com), [web-based mobile application](https://www.muwaqqit.com/mobile), [iOS app](https://itunes.apple.com/app/muwaqqit/id1454077724), and [API](/api-v1). The project also provides data services to academic and Islamic organisations, Mosques and publishers. See [contact details](/contact).
 
+The project is overseen by Mufti Sajid Patel and Shaykh Dr. Haitham al-Haddad.
+
 <note :label="false">[Technical notes →](/technical-notes)</note>
 
 Muwaqqit calculates:

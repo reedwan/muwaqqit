@@ -165,7 +165,7 @@ All astronomical bodies rise when they are in the east and set when they are in 
 
 <div dir="rtl">ألم تر إلى الذي حاج إبراهيم في ربه أن آتاه الله الملك إذ قال إبراهيم ربي الذي يحيي ويميت قال أنا أحيي وأميت قال إبراهيم فإن الله يأتي بالشمس من المشرق فأت بها من المغرب فبهت الذي كفر والله لا يهدي القوم الظالمين (2:258)</div>
 
-Dr. Steve Bell, head of Her Majesty’s Nautical Almanac Office says, "The sun moves from the western half of the sky to the eastern half of the sky at lower transit (nadir)."Twilights: Terminology, Appearance, Occurrence and Calculation, _The United Kingdom Hydrographic Office_ This is an astronomical fact just as the sun moves from the eastern half of the sky to the western half at upper transit (zenith).
+Dr. Steve Bell, head of Her Majesty’s Nautical Almanac Office says, "The sun moves from the western half of the sky to the eastern half of the sky at lower transit (nadir)." (Twilights: Terminology, Appearance, Occurrence and Calculation, _The United Kingdom Hydrographic Office_) This is an astronomical fact just as the sun moves from the eastern half of the sky to the western half at upper transit (zenith).
 
 If an _Aqrab al-Ayyām_ time of 1.20am is used, the sun has already been in the east and rising for 20 minutes. It is not possible that this rising twilight belongs to _Maghrib_.
 
