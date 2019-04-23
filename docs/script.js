@@ -102,6 +102,15 @@ new Docute({
       ]
     },
     {
+      title: 'Miscellaneous',
+      links: [
+        {
+          title: 'Aqrab al-Ayyām',
+          link: '/aqrab-al-ayyam'
+        },
+      ],
+    },
+    {
       title: 'API',
       links: [
         {
