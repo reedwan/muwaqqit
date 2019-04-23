@@ -1,4 +1,4 @@
-# A misunderstanding of Fajr and misapplication of Aqrab al-Ayyām during persistent twilight
+# A misapplication of Aqrab al-Ayyām during persistent twilight
 
 **Overview:** During persistent twilight, some institutions in the UK set the beginning of Fajr to approximately 1.20am. This is a misunderstanding of _Fajr_ and misapplication of _Aqrab al-Ayyām_. _Fajr_ during this period does actually manifest. It occurs at solar midnight (approximately 1am). We set forward a number of arguments — from the statements of jurists, astronomy, natural order, logic, historical practice, and verses of the Qurān — that show _Fajr_ occurs at solar midnight and why the modern understanding of _Aqrab al-Ayyām_ is both irrational and misapplied. (In this article the definition of _Maghrib_ includes white twilight unless otherwise mentioned.)
 
