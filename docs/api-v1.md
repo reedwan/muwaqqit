@@ -1,6 +1,6 @@
 # API v1
 
-<note type="warning">API v1 is depreciated, and hence rate limited.</note>
+<note type="warning">API v1 is depreciated, and rate limited.</note>
 
 The REST API gives developers the ability to use Muwaqqit ṣalāh times and astronomical data in their own applications. Data can be requested in JSON, XML or CSV using the appropriate endpoint: https://api.muwaqqit.com/api.json, https://api.muwaqqit.com/api.xml or https://api.muwaqqit.com/api.csv.
 
