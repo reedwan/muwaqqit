@@ -3,7 +3,11 @@ Fajr begins with the break of true dawn -- that is, twilight which appears in th
 
 The Ḥanafīs, Ḥanbalīs and Shāfiʿīs says that Fajr ends at Sunrise. The Mālikīs say that Fajr lasts until the brightness of the sky is such that people's faces are clearly distinguishable by someone with average sight in a place not covered by a roof, and when the stars cease to be visible; and that its extended time (for those with a legal excuse) lasts until Sunrise.
 
-True dawn is normally preceded by the false dawn -- a column of light flanked on either side by darkness which extends up along the ecliptic. It resembles the tail of a black wolf, and corresponds to the phenomenon known as the zodiacal light. True dawn is followed by the red dawn. The altitude of the Sun at the time of true dawn is by the determination of many astronomers, -18°. This value along with slight variations (most notably -19°) were widely used throughout Islamic history. See [King 2003](https://brill.com/abstract/title/7640).
+True dawn is normally preceded by the false dawn -- a column of light flanked on either side by darkness. It resembles the tail of a black wolf, and corresponds to the phenomenon known as the zodiacal light.
+
+<note>There is no mention of the false dawn by European astronomers until the late seventeenth century where it is discussed by Cassini. Subsequently European astronomers referred to the phenomenon as the zodiacal light, a faint cone of light that extends along the ecliptic.</note>
+
+The altitude of the Sun at the time of true dawn is by the determination of many astronomers, -18°. This value along with slight variations (most notably -19°) were widely used throughout Islamic history. See [King 2003](https://brill.com/abstract/title/7640).
 
 <note type="warning">It is not possible to determine this angle visually in regions affected by artificial anthropogenic skyglow (ie. most of the developed world). Angles as small as -15° have no pre-modern precedent and are a result of observations affected by artificial skyglow. See [Spitschan et al 2016](http://www.nature.com/articles/srep26756), [Falchi et al 2016](https://advances.sciencemag.org/content/2/6/e1600377.full).</note>
 
