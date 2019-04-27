@@ -5,7 +5,7 @@ The Ḥanafīs, Ḥanbalīs and Shāfiʿīs says that Fajr ends at Sunrise. The 
 
 True dawn is normally preceded by the false dawn -- a column of light that extends along the ecliptic, flanked on either side by darkness. It resembles the tail of a black wolf, and corresponds to the phenomenon known as the zodiacal light.
 
-<note>There is no mention of the false dawn by European astronomers until the late seventeenth century where it is discussed by Cassini as _la lumière répandus sur le zodiaque_. Subsequently astronomers referred to the phenomenon as the zodiacal light.</note>
+<note>There is no mention of the false dawn by European astronomers until the late seventeenth century where it is discussed by Cassini as _la lumière répandus sur le zodiaque_. Subsequently astronomers began referring to the phenomenon as the zodiacal light.</note>
 
 The altitude of the Sun at the time of true dawn is by the determination of many astronomers, -18°. This value along with slight variations (most notably -19°) were widely used throughout Islamic history. See [King 2003](https://brill.com/abstract/title/7640).
 
