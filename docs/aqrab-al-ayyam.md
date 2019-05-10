@@ -97,7 +97,7 @@ All of these practises fit into our discussion above. _ʿIshāʾ_ was offered ac
 
 The same stance (of furthering various methods for setting _ʿIshāʾ_ while regarding _Fajr_ as occurring) is also taken by contemporary jurists such as Muftī ʿAbd al-Raḥīm Lajpurī <img src="https://reedwan.github.io/fajr/img/ra.png" width="28" /> and Muftī Rashīd Aḥmad Ludhiānwī <img src="https://reedwan.github.io/fajr/img/ra.png" width="28" />. Muftī Rashīd (perhaps by virtue of his expertise in astronomy) explicitly states that it is an astronomical fact that _Fajr_ begins at solar midnight during persistent twilight (further detail in Section ii).
 
-### 2. Using a fixed time of 1.20am throughout the persistent twilight period is not Aqrab al-Ayyām
+### 2. Using a fixed civil time of 1.20am throughout the persistent twilight period is not Aqrab al-Ayyām
 
 The length of a _sharʿī_ day is from _Maghrib_ to _Maghrib_. This is slightly different to the civil day that we commonly use. The length of a civil day is exactly 86,400 seconds. The length of a _sharʿī_ day changes daily and is slightly shorter or longer than the civil day. Since the civil day is a fixed arbitrary period of 86,400 seconds, it cannot be used to set _Aqrab al-Ayyām_. _Aqrab al-Ayyām_ must be fixed in realtion to the _sharʿī_ day, and not a fixed arbitary period of time. In setting _Aqrab al-Ayyām_ to the _sharʿī_ day, the calculated time of _Aqrab al-Ayyām_ will change daily, because the length of the real day changes every day.
 
