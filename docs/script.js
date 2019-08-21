@@ -13,7 +13,7 @@ new Docute({
   sidebar: [
     {
       title: 'Notes',
-      collapsable?: false,
+      collapsable: false,
       links: [
         {
           title: 'Introduction',
@@ -35,7 +35,7 @@ new Docute({
     },
     {
       title: 'Definitions',
-      collapsable?: false,
+      collapsable: false,
       links: [
         {
           title: 'Anti-transit',
@@ -105,7 +105,7 @@ new Docute({
     },
     {
       title: 'Miscellaneous',
-      collapsable?: false,
+      collapsable: false,
       links: [
         {
           title: 'Aqrab al-Ayyām',
@@ -116,7 +116,7 @@ new Docute({
     },
     {
       title: 'API',
-      collapsable?: false,
+      collapsable: false,
       links: [
         {
           title: 'API v1',
