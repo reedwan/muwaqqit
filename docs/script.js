@@ -105,7 +105,6 @@ new Docute({
     },
     {
       title: 'Miscellaneous',
-      collapsable: false,
       links: [
         {
           title: 'Aqrab al-Ayyām',
@@ -116,7 +115,6 @@ new Docute({
     },
     {
       title: 'API',
-      collapsable: false,
       links: [
         {
           title: 'API v1',
