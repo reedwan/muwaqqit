@@ -4,12 +4,6 @@ new Docute({
   target: '#docute',
   //sourcePath: './',
   //banner: '<note :label="false">Please consider supporting this project through a small monthly <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=contact@muwaqqit.com&currency_code=GBP">PayPal donation<ExternalLinkIcon /></a>.</note>',
-  nav: [
-    {
-      title: 'Muwaqqit',
-      link: 'https://www.muwaqqit.com'
-    },
-  ],
   sidebar: [
     {
       title: 'Notes',
