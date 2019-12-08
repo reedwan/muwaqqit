@@ -1,5 +1,5 @@
 <img
-  src="https://reedwan.github.io/fajr/img/bismillah.png" 
+  src="bismillah.png" 
   width="400"
 />
 
