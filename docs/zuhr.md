@@ -1,5 +1,5 @@
 # Ẓuhr
-Ẓuhr begins when the Sun declines (immediately after [Istiwāʾ](/istiwa)).
+Ẓuhr begins when the Sun declines (and is immediately after [Istiwāʾ](/istiwa)).
 
 <note>In theory, the Sun begins to decline immediately after [Transit](/transit), however this may not be discernible from observing shadow lengths. [In the theoretical case [Istiwāʾ](/istiwa) will be an instant and where discernibility is considered, [Istiwāʾ](/istiwa) will be a momentary period.] Two times are shown for Ẓuhr (in addition to [Transit](/transit)). The first is when the disc of the Sun has crossed the upper meridian and is entirely in the West. The second (only shown in the web version of Muwaqqit) is in terms of shadow increase over transit for a 2m gnomon. Various shadow increases are documented by [King 2003](https://brill.com/abstract/title/7640), most notably one twelfth and one quarter of a gnomon.</note>
 
