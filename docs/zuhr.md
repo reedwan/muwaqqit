@@ -9,4 +9,4 @@ The Ḥanafīs say that Ẓuhr ends when the shadow of an object is twice the le
 
 The Ḥanafīs and Shāfiʿīs say that the time for the Friday prayer (Ṣalāt al-Jumuʿah) is the same as Ẓuhr. However, the Mālikīs say that its time extends until Sunset. The Ḥanbalīs say that its time begins when the sun has risen one spear length ([al-Ḍaḥwa al‑Ṣughrā](/al-dahwa-al-sughra)) and lasts until the ending time of Ẓuhr.
 
-**Method:** The trailing limb of the sun is at the observer's upper meridian. In the web version of Muwaqqit, the time is also given in terms of shadow increase over transit (in millimetres) for a 2m gnomon, where the increase can be set according to user preference. The default is 1mm. Positions are corrected for refraction.
+**Method:** The trailing limb of the sun is at the observer's upper meridian. In the web version of Muwaqqit, a time in terms of shadow increase over transit (in millimetres) for a 2m gnomon is also shown, where the increase can be set according to user preference. The default is 1mm. Positions are corrected for refraction.
