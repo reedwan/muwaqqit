@@ -3,7 +3,7 @@ Fajr begins with the break of true dawn -- that is, twilight which appears in th
 
 The Ḥanafīs, Ḥanbalīs and Shāfiʿīs says that Fajr ends at Sunrise. The Mālikīs say that Fajr lasts until the brightness of the sky is such that people's faces are clearly distinguishable by someone with average sight in a place not covered by a roof, and when the stars cease to be visible; and that its extended time (for those with a legal excuse) lasts until Sunrise.
 
-True dawn is normally preceded by the false dawn -- a column of light that extends along the ecliptic, flanked on either side by darkness. It resembles the tail of a black wolf, and corresponds to the phenomenon known as the zodiacal light.
+True dawn is normally preceded by the false dawn -- a column of light that extends along the ecliptic, flanked on either side by darkness. It resembles the tail of a black wolf, and corresponds to the phenomenon known as the zodiacal light. See [Redhouse 1880](https://www.jstor.org/stable/25196852).
 
 <note>There is no mention of the false dawn by European astronomers until the late seventeenth century where it is discussed by Cassini as _la lumière répandus sur le zodiaque_. Subsequently astronomers began referring to the phenomenon as the zodiacal light.</note>
 
