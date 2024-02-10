@@ -7,7 +7,7 @@ True dawn is normally preceded by the false dawn -- a column of light that exten
 
 <note>There is no mention of the false dawn by European astronomers until the late seventeenth century where it is discussed by Cassini as _la lumière répandus sur le zodiaque_. Subsequently astronomers began referring to it as the zodiacal light.</note>
 
-The altitude of the Sun at the time of true dawn is -19°, or according to some muwaqqits -18°. These values along with slight variations were widely used throughout Islamic history. See [King 2003](https://brill.com/abstract/title/7640).
+The altitude of the Sun at the time of true dawn according to muwaqqits is -19° or -18°. These values along with slight variations were widely used throughout Islamic history. See [King 2003](https://brill.com/abstract/title/7640).
 
 <note :label="false">Ibn al-Shatir [d. 777 Hijrī], the head muwaqqit of the Umayyad Mosque in Damascus, adopted a value of -19° and writes that he observed true dawn for many years in succession and found it did not exceed -20° or fall below -18° (ie. -19±1°). [_General Utility in the Practice of the Perfect Quadrant_]</note>
 
