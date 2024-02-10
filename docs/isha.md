@@ -3,7 +3,7 @@ The Shāfiʿīs, Ḥanbalīs and Mālikīs say that ʿIshāʾ begins with the d
 
 The altitude of the Sun at the disappearance of the red twilight glow is according to some muwaqqits -17°, and others -16°. See [King 2003](https://brill.com/abstract/title/7640). The difference between the disappearance of the red and white twilight glow is approximately 3°.
 
-<note type="warning">It is not possible to determine this angle visually in regions affected by artificial anthropogenic skyglow (ie. most of the developed world). See [Spitschan et al 2016](http://www.nature.com/articles/srep26756), [Falchi et al 2016](https://advances.sciencemag.org/content/2/6/e1600377.full).</note>
+<note type="warning">It is not possible to determine this angle accurately in regions affected by artificial anthropogenic skyglow (ie. most of the developed world). See [Spitschan et al 2016](http://www.nature.com/articles/srep26756), [Falchi et al 2016](https://advances.sciencemag.org/content/2/6/e1600377.full).</note>
 
 The Shāfiʿīs and Ḥanafīs say that ʿIshāʾ lasts until Fajr. The Hanbalis and Malikis say that ʿIshāʾ lasts until the first third of the legal (sharʿī) night, and that only its extended time lasts until Fajr.
 
