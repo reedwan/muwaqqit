@@ -11,8 +11,6 @@ Muwaqqit aspires to be a reference for ṣalāh and astronomical data for Muslim
 
 Muwaqqit was launched in Ramaḍān 2011, and currently provides a number of public tools including a [web application](https://www.muwaqqit.com), [live view](https://www.muwaqqit.com/live), [iPhone app](https://itunes.apple.com/app/muwaqqit/id1454077724), and [API](/api-v1). See [contact details](/contact).
 
-The project is overseen by Mufti Sajid Patel (London) and Shaykh Dr. Haitham al-Haddad (London).
-
 <note :label="false">[Technical notes →](/technical-notes)</note>
 
 Muwaqqit calculates:
