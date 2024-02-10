@@ -1,7 +1,7 @@
 # ʿIshāʾ
 The Shāfiʿīs, Ḥanbalīs and Mālikīs say that ʿIshāʾ begins with the disappearance of the red twilight glow (al-Shafaq al-Aḥmar). The Ḥanafīs say that ʿIshāʾ begins with the disappearance of the white twilight glow (al-Shafaq al-Abyaḍ), although the Sāhibayn hold that ʿIshāʾ begins with the disappearance of the red twilight glow, in agreement with the other three schools.
 
-The altitude of the Sun at the disappearance of the red twilight glow is -16°, or according to some muwaqqits -17°. See [King 2003](https://brill.com/abstract/title/7640). The difference between the disappearance of the red and white twilight glow is approximately 3°.
+The altitude of the Sun at the disappearance of the red twilight glow is according to some muwaqqits -17°, and others -16°. See [King 2003](https://brill.com/abstract/title/7640). The difference between the disappearance of the red and white twilight glow is approximately 3°.
 
 <note type="warning">It is not possible to determine this angle visually in regions affected by artificial anthropogenic skyglow (ie. most of the developed world). See [Spitschan et al 2016](http://www.nature.com/articles/srep26756), [Falchi et al 2016](https://advances.sciencemag.org/content/2/6/e1600377.full).</note>
 

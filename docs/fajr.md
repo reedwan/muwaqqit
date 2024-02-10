@@ -9,7 +9,7 @@ True dawn is normally preceded by the false dawn -- a column of light that exten
 
 The altitude of the Sun at the time of true dawn is -19°, or according to some muwaqqits -18°. These values along with slight variations were widely used throughout Islamic history. See [King 2003](https://brill.com/abstract/title/7640).
 
-<note type="warning">Ibn al-Shatir [d. 777 Hijrī], the head muwaqqit of the Umayyad Mosque in Damascus, adopted -19° and notes that he observed true dawn for many years in succession and found it did not exceed -20° or fall below -18° (ie. -19±1°). [General Utility in the Practice of the Perfect Quadrant]</note>
+<note>Ibn al-Shatir [d. 777 Hijrī], the head muwaqqit of the Umayyad Mosque in Damascus, adopted -19° and notes that he observed true dawn for many years in succession and found it did not exceed -20° or fall below -18° (ie. -19±1°). [_General Utility in the Practice of the Perfect Quadrant_]</note>
 
 <note type="warning">It is not possible to determine this angle visually in regions affected by artificial anthropogenic skyglow (ie. most of the developed world). Newly proposed angles as small as -8° to -15° have little to no historical precedence and are a result of observations affected by artificial skyglow. See [Spitschan et al 2016](http://www.nature.com/articles/srep26756), [Falchi et al 2016](https://advances.sciencemag.org/content/2/6/e1600377.full).</note>
 
