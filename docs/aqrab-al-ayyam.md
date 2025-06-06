@@ -74,8 +74,6 @@ He continues to explain, "(al-Zarkashī and Ibn ʿImād) have allowed (using the
 
 Even in the extreme situation of not having time to offer _Maghrib_ and eat before dawn, it will not be permitted to assume an artificial time for dawn. A person will eat and pray _Maghrib_ as _qaḍāʾ_. A person will only have recourse to estimation for _suḥūr_ if there is not enough time to eat to sustain himself. This is out of necessity to preserve his life. It is clear from this that if the physical signs of _ṣalāḥ_ occur, no matter how briefly, they must be observed. If a person is unable to pray on time, he will make _qaḍāʾ_.
 
-Imām Aḥmad al-Ramlī <img src="ra.png" width="28" /> further explains that estimating a time for fasting can be acceptable if the gap between sunset and _Fajr_ is only for the length of time between both _ʿIshāʾ_s (ie. the time between the ending of red and white twilights). This is 3° or about 15 minutes (for him). If sunset to _Fajr_ is for 15 minutes or less then a person has recourse (for fasting) to adopt the night of the nearest place where there is sufficient time to eat. This only occurs near the Arctic and Antarctic Circles. In places where sunset to _Fajr_ is longer than 15 minutes, a fasting person can eat enough to sustain himself, and hence there is no necessity to impose an artificial night over the actual times of sunset and dawn.
-
 What is also apparent from this discussion is that estimation based on analogy of the _ḥadīth_ of Dajjāl can only be used when there is no complete cycle of sunset and sunrise in one day. Moreover, the Ḥanafīs hold that the _ḥadīth_ of Dajjāl is specific to that particular supernatural event and cannot be applied by analogy to other than it. Imām al-Ṭaḥṭāwī <img src="ra.png" width="28" /> says, "As for the _ḥadīth_ of Dajjāl, it is stated that it goes against _qiyās_, so we cannot do _qiyās_ of other situations based on this _ḥadīth_." Both these situations (no sunset and sunrise in one day, and the specific supernatural event mentioned) do not apply to the UK.
 
 <div dir="rtl">وقياسه على يوم الدجال لايصح اذ لا مدخل للقياس في وضع الاسباب وايضا لا يكون القياس على امر يخالف القياس وحديث الدجال خلف القياس فلا يقاس غيره عليه حتى قال عياض لو وكلنا لا جتهادنا لا كتفينا بالصلوات الخمس ، اه على ان الاوقات موجودة في اجزاء ذالك الزمان تقديرا بحكم الشارع ولا كذالك هنا فلا مساواة حتى يقاس احدهما على الاخر الخ — حاشية الطحطاوي على الدر المختار</div>
@@ -174,7 +172,7 @@ If an _Aqrab al-Ayyām_ time of 1.20am is used, the sun has already been in the 
 The sun’s path is symmetrical around the meridian. Since twilight simply follows the sun, the disappearance and appearance of twilight will be symmetrical. The lengths of _Maghrib_ and _Fajr_ are always the same. ʿAllāmah Ẓafar Aḥmad ʿUthmānī <img src="ra.png" width="28" /> says, "The redness and whiteness that appear in the horizon after sunset both parallel the whiteness and redness that appear before sunrise, as both result from the illumination of the sun. Hence, the time between sunset and the disappearance of the white _shafaq_ is exactly the same as the time between the appearance of the whiteness of dawn until sunrise, as the scholars of mathematics and astronomy have stated explicitly." Because of this symmetry, if disappearing twilight _(shafaq)_ lasts for 1 hour, then spreading twilight _(ṣubḥ)_ will last for 1 hour. Using _Aqrab al-Ayyām_ leads to the irrational proposition that _shafaq_ lasts longer than _ṣubḥ_. The symmetry of twilight is a necessary consequence of the symmetric path of the sun.
 
 <div dir="rtl">إن الحمرة والبياض الباديين فى الأفق بعد غروب الشمس كلاهما نظير البياض والحمرة الباديين قبل طلوع الشمس لكون كليهما من آثار أشعتها ، فمدة ما بين غروب الشمس إلى غيبوبة بياض الشفق هي المدة ما بين ظهور بياض الفجر إلى طلوع الشمس سواء بسواء كما صرح به أصحاب الرياض والهيئة — إعلاء السنن</div>
-  
+
 <div dir="rtl">وأما بياض الشفق وهو رقيق الحمرة فلا يتأخر عنها إلا قليلا قدر ما يتأخر طلوع الحمرة عن البياض في الفجر — حاشية الطحطاوي على مراقي الفلاح شرح نور الإيضاح</div>
 
 ### 9. Determining dawn through equivalence
@@ -213,10 +211,10 @@ Furthermore, the modern implementation of _Aqrab al-Ayyām_ is not according to 
 
 During persistent twilight, the only time for _Fajr_ that is consistent with the definition of _Fajr_, reality, verses of the Qurān, statements of jurists, logic, natural order, and laws of astronomy is solar midnight.
 
-_And Allāh the Exalted knows best._ 
+_And Allāh the Exalted knows best._
 
-<note :label="false">[The relevant discussion in _Radd al-Muḥtār ʿalā al-Dur al-Mukhtār_](https://goo.gl/UxySV8)  
-[Relevant discussions of Shāfiʿī jurists](https://goo.gl/QurVkL)  
+<note :label="false">[The relevant discussion in _Radd al-Muḥtār ʿalā al-Dur al-Mukhtār_](https://goo.gl/UxySV8)
+[Relevant discussions of Shāfiʿī jurists](https://goo.gl/QurVkL)
 [Sky simulation of persistent twilight](https://youtu.be/B8U9-ibxD4Q)
 </note>
 
